@@ -1,0 +1,9 @@
+[package]
+name = "@crypto/zeroize"
+version = "0.1.0"
+edition = "2026"
+description = "Secret-zeroizing memory containers for Zeta — securely clear sensitive data from memory on drop"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/murphsicles/zeroize"
+keywords = ["zeroize", "secret", "memory", "security", "cryptography"]
+categories = ["cryptography"]
